@@ -1,16 +1,21 @@
-### Hi there 👋
+# `Hola` / `Hello` / `こんいちは`
 
-<!--
-**VctorAHernndez/VctorAHernndez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**My name's Víctor Hernández, also known as Bístor, Vic, Fonsi, Fonso, Naaandez, etc...**
 
-Here are some ideas to get you started:
+- 🇵🇷 Software Engineer from Puerto Rico
+- 🎓 Alumni from [Universidad de Puerto Rico, Recinto de Río Piedras](www.uprrp.edu)
+- 👨🏻‍💻 Currently working in [BrainHi](www.brainhi.com) as a Full Stack Engineer
+- 😄 Any pronouns are fine by me
+- 🀄️ Currently learning Japanese; native in Spanish and fluent in English
+- 🎸 Working my way through the guitar and Music Theory
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Some Stats!**
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VctorAHernndez" alt="Top Languages">
+<img src="https://github-readme-stats.vercel.app/api?username=VctorAHernndez" alt="GitHub Stats">
+
+**Find me elsewhere!**
+
+<a href="https://www.linkedin.com/in/VctorAHernndez" >
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
