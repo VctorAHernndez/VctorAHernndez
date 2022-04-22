@@ -1,4 +1,4 @@
-### `Hola` / `Hello` / `こんいちは`
+### `Hola` / `Hello` / `こんにちは`
 
 **My name's Víctor Hernández, also known as Bístor, Vic, Fonsi, Fonso, Naaandez, etc...**
 
