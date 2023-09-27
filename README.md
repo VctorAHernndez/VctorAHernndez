@@ -4,7 +4,7 @@
 
 - 🇵🇷 Software Engineer from Puerto Rico
 - 🎓 Alumni from [Universidad de Puerto Rico, Recinto de Río Piedras](www.uprrp.edu)
-- 👨🏻‍💻 Currently working in [BrainHi](www.brainhi.com) as a Full Stack Engineer
+- 👨🏻‍💻 Worked at [BrainHi](www.brainhi.com) as a Full Stack Engineer & then as Team Lead
 - 😄 Any pronouns are fine by me
 - 🀄️ Currently learning Japanese; native in Spanish and fluent in English
 - 🎸 Working my way through the guitar and Music Theory
